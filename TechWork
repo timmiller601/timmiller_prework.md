@@ -1,5 +1,5 @@
 #Turing Pre-Work
-DAY 1
+##DAY 1
 Chapters 1 and 2
 HTML code describes the structure of a document using different elements.
 
@@ -30,7 +30,7 @@ Semantic markup is elements that add extra information to text such as emphasis 
 
 Link to my pen
 
-DAY 2
+##DAY 2
 Chapters 3 and 4
 Ordered lists are numbered lists, while unordered lists are bulleted. Definition lists do not have numbers or bullets, but contain an additional block of characters referred to as a definition.
 
