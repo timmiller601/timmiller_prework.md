@@ -1,8 +1,0 @@
-Gives structure to the webpage
-An HTML element is defined by a starting tag. If the element contains other content, it ends with a closing tag.
-Attributes give us additional information about the contents of an element 
-
-Once you have opened a page you can look for the “view” menu in your browser and select the option for “View Source” 
-<h1> Main Heading, <h2> sub heading <
-These elements are called empty or void and only have a start tag, they do not contain any content 
-Semantic Markup: provides extra information; such as where the emphasis is placed in a sentence, that something was written in quotation, the meaning of acronyms and so on
